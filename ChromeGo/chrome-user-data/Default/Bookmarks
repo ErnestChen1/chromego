@@ -340,18 +340,27 @@
          }, {
             "date_added": "13065672462000000",
             "id": "61",
+            "meta_info": {
+               "last_visited_desktop": "13211213058498540"
+            },
             "name": "禁闻网",
             "type": "url",
             "url": "http://www.bannedbook.org/"
          }, {
             "date_added": "13065672473000000",
             "id": "62",
+            "meta_info": {
+               "last_visited_desktop": "13211213059731447"
+            },
             "name": "禁书网",
             "type": "url",
             "url": "http://www.bannedbook.org/index.php"
          }, {
             "date_added": "13065672479000000",
             "id": "63",
+            "meta_info": {
+               "last_visited_desktop": "13211213060192011"
+            },
             "name": "禁片网",
             "type": "url",
             "url": "http://jinpianwang.com/"
@@ -359,6 +368,9 @@
             "children": [ {
                "date_added": "13051411012000000",
                "id": "68",
+               "meta_info": {
+                  "last_visited_desktop": "13211209375823674"
+               },
                "name": "翻墙软件·主页·GitHub",
                "type": "url",
                "url": "https://github.com/bannedbook/fanqiang/wiki"
@@ -395,12 +407,18 @@
             }, {
                "date_added": "13051411160000000",
                "id": "69",
+               "meta_info": {
+                  "last_visited_desktop": "13211213063354724"
+               },
                "name": "翻墙常见问题 · GitHub",
                "type": "url",
                "url": "https://github.com/comeforu2012/FQ_FAQ/wiki"
             }, {
                "date_added": "13051411999000000",
                "id": "70",
+               "meta_info": {
+                  "last_visited_desktop": "13211209935330276"
+               },
                "name": "翻墙技巧总结 · GitHub",
                "type": "url",
                "url": "https://github.com/comeforu2012/Better/wiki"
@@ -426,18 +444,27 @@
             "children": [ {
                "date_added": "13065672448000000",
                "id": "74",
+               "meta_info": {
+                  "last_visited_desktop": "13211213058498540"
+               },
                "name": "禁闻网",
                "type": "url",
                "url": "http://www.bannedbook.org/"
             }, {
                "date_added": "13065670929000000",
                "id": "75",
+               "meta_info": {
+                  "last_visited_desktop": "13211213059731447"
+               },
                "name": "禁书网",
                "type": "url",
                "url": "http://www.bannedbook.org/index.php"
             }, {
                "date_added": "13065670954000000",
                "id": "76",
+               "meta_info": {
+                  "last_visited_desktop": "13211213060192011"
+               },
                "name": "禁片网",
                "type": "url",
                "url": "http://jinpianwang.com/"
@@ -474,6 +501,9 @@
             }, {
                "date_added": "13051672825000000",
                "id": "82",
+               "meta_info": {
+                  "last_visited_desktop": "13211212336463939"
+               },
                "name": "新唐人电视台在线直播",
                "type": "url",
                "url": "http://www.ntdtv.com/xtr/gb/tv.html"
@@ -498,6 +528,9 @@
             }, {
                "date_added": "12990693598000000",
                "id": "86",
+               "meta_info": {
+                  "last_visited_desktop": "13211209431840975"
+               },
                "name": "动态网",
                "type": "url",
                "url": "http://dongtaiwang.com/"
@@ -577,6 +610,9 @@
             }, {
                "date_added": "13065672642000000",
                "id": "99",
+               "meta_info": {
+                  "last_visited_desktop": "13211210977249460"
+               },
                "name": "禁片：九评共产党 视频 音频 - 禁书网",
                "type": "url",
                "url": "http://www.bannedbook.org/forum11/topic267.html"
@@ -674,6 +710,9 @@
             }, {
                "date_added": "13065672059000000",
                "id": "115",
+               "meta_info": {
+                  "last_visited_desktop": "13211213060192011"
+               },
                "name": "禁片网",
                "type": "url",
                "url": "http://jinpianwang.com/"
@@ -686,6 +725,9 @@
             }, {
                "date_added": "12992499324000000",
                "id": "117",
+               "meta_info": {
+                  "last_visited_desktop": "13211210968878653"
+               },
                "name": "国内视频网站汇总_【hao123上网导航】",
                "type": "url",
                "url": "http://www.hao123.com/video"
@@ -735,6 +777,9 @@
             }, {
                "date_added": "12993714504000000",
                "id": "125",
+               "meta_info": {
+                  "last_visited_desktop": "13211211653224741"
+               },
                "name": "Google+",
                "type": "url",
                "url": "https://plus.google.com/+BannedbookOrg"
@@ -936,6 +981,9 @@
             }, {
                "date_added": "12990711086000000",
                "id": "158",
+               "meta_info": {
+                  "last_visited_desktop": "13211211641899503"
+               },
                "name": "维基百科，自由的百科全书",
                "type": "url",
                "url": "http://zh.wikipedia.org/"

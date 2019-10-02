@@ -2,6 +2,7 @@
 	"configs" : [
 		{
 			"remarks" : "",
+			"id" : "F0609E746416AC5E61CB37D0462BCFC6",
 			"server" : "162.245.239.66",
 			"server_port" : 23456,
 			"server_udp_port" : 0,
@@ -11,25 +12,25 @@
 			"protocolparam" : "",
 			"obfs" : "plain",
 			"obfsparam" : "",
+			"remarks_base64" : "",
 			"group" : "alvin9999",
 			"enable" : true,
 			"udp_over_tcp" : false
-		},
-
+		}
 	],
 	"index" : 0,
 	"random" : true,
 	"sysProxyMode" : 0,
 	"shareOverLan" : false,
 	"localPort" : 1080,
-	"localAuthPassword" : null,
+	"localAuthPassword" : "ncEGVn8Wr2rhY2YtbnrM",
 	"dnsServer" : "",
 	"reconnectTimes" : 2,
 	"randomAlgorithm" : 3,
 	"randomInGroup" : false,
 	"TTL" : 0,
 	"connectTimeout" : 5,
-	"proxyRuleMode" : 0,
+	"proxyRuleMode" : 2,
 	"proxyEnable" : false,
 	"pacDirectGoProxy" : false,
 	"proxyType" : 0,

@@ -1,0 +1,68 @@
+[2019-08-25 20:45:35] [Error] System.Exception: 端口已被占用
+   在 Shadowsocks.Controller.Listener.Start(Configuration config, Int32 port)
+   在 Shadowsocks.Controller.ShadowsocksController.Reload()
+[2019-08-25 20:45:45] [Error] connect to update server error
+[2019-08-25 20:50:29] [Error] System.Exception: 端口已被占用
+   在 Shadowsocks.Controller.Listener.Start(Configuration config, Int32 port)
+   在 Shadowsocks.Controller.ShadowsocksController.Reload()
+[2019-08-25 20:50:38] [Error] connect to update server error
+[2019-08-25 20:55:38] [Error] connect to update server error
+[2019-08-25 21:11:10] ShadowsocksR started on port 1080
+[2019-08-25 21:23:29] ShadowsocksR started on port 1080
+[2019-08-25 21:23:40] [Info] Connect raw.githubusercontent.com:443
+[2019-08-25 21:23:41] [Warn] Proxy server [(162.245.239.66)] connection refused
+[2019-08-25 21:23:41] [Info] Connect raw.githubusercontent.com:443
+[2019-08-25 21:23:43] [Warn] Proxy server [(162.245.239.66)] connection refused
+[2019-08-25 21:23:43] [Info] Connect raw.githubusercontent.com:443
+[2019-08-25 21:23:45] [Warn] Proxy server [(162.245.239.66)] connection refused
+[2019-08-25 21:23:45] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-25 21:23:45] [Info] Connect raw.githubusercontent.com:443
+[2019-08-25 21:23:47] [Warn] Proxy server [(162.245.239.66)] connection refused
+[2019-08-25 21:23:47] [Info] Connect raw.githubusercontent.com:443
+[2019-08-25 21:23:52] [Info] Connect raw.githubusercontent.com:443
+[2019-08-25 21:23:54] [Warn] Proxy server [(162.245.239.66)] connection refused
+[2019-08-25 21:23:54] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-25 21:23:54] [Info] Connect raw.githubusercontent.com:443
+[2019-08-25 21:23:56] [Warn] Proxy server [(162.245.239.66)] connection refused
+[2019-08-25 21:23:56] [Info] Connect raw.githubusercontent.com:443
+[2019-08-25 21:23:58] [Warn] Proxy server [(162.245.239.66)] connection refused
+[2019-08-25 21:23:58] [Info] Connect raw.githubusercontent.com:443
+[2019-08-25 21:23:59] [Warn] Proxy server [(162.245.239.66)] connection refused
+[2019-08-25 21:24:00] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-25 21:24:00] [Info] Connect raw.githubusercontent.com:443
+[2019-08-25 21:24:01] [Warn] Proxy server [(162.245.239.66)] connection refused
+[2019-08-25 21:24:01] [Info] Connect raw.githubusercontent.com:443
+[2019-08-25 21:24:03] [Warn] Proxy server [(162.245.239.66)] connection refused
+[2019-08-25 21:24:03] [Info] Connect raw.githubusercontent.com:443
+[2019-08-25 21:24:05] [Warn] Proxy server [(162.245.239.66)] connection refused
+[2019-08-25 21:24:05] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-25 21:24:05] [Error] connect to update server error
+[2019-08-25 21:28:39] [Info] Connect raw.githubusercontent.com:443
+[2019-08-25 21:28:40] [Warn] Proxy server [(162.245.239.66)] connection refused
+[2019-08-25 21:28:40] [Info] Connect raw.githubusercontent.com:443
+[2019-08-25 21:28:42] [Warn] Proxy server [(162.245.239.66)] connection refused
+[2019-08-25 21:28:42] [Info] Connect raw.githubusercontent.com:443
+[2019-08-25 21:28:44] [Warn] Proxy server [(162.245.239.66)] connection refused
+[2019-08-25 21:28:44] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-25 21:28:44] [Info] Connect raw.githubusercontent.com:443
+[2019-08-25 21:28:46] [Warn] Proxy server [(162.245.239.66)] connection refused
+[2019-08-25 21:28:46] [Info] Connect raw.githubusercontent.com:443
+[2019-08-25 21:28:48] [Warn] Proxy server [(162.245.239.66)] connection refused
+[2019-08-25 21:28:48] [Info] Connect raw.githubusercontent.com:443
+[2019-08-25 21:28:50] [Warn] Proxy server [(162.245.239.66)] connection refused
+[2019-08-25 21:28:50] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-25 21:28:50] [Info] Connect raw.githubusercontent.com:443
+[2019-08-25 21:28:52] [Warn] Proxy server [(162.245.239.66)] connection refused
+[2019-08-25 21:28:52] [Info] Connect raw.githubusercontent.com:443
+[2019-08-25 21:28:53] [Warn] Proxy server [(162.245.239.66)] connection refused
+[2019-08-25 21:28:54] [Info] Connect raw.githubusercontent.com:443
+[2019-08-25 21:28:55] [Warn] Proxy server [(162.245.239.66)] connection refused
+[2019-08-25 21:28:55] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-25 21:28:55] [Info] Connect raw.githubusercontent.com:443
+[2019-08-25 21:28:57] [Warn] Proxy server [(162.245.239.66)] connection refused
+[2019-08-25 21:28:57] [Info] Connect raw.githubusercontent.com:443
+[2019-08-25 21:28:59] [Warn] Proxy server [(162.245.239.66)] connection refused
+[2019-08-25 21:28:59] [Info] Connect raw.githubusercontent.com:443
+[2019-08-25 21:29:01] [Warn] Proxy server [(162.245.239.66)] connection refused
+[2019-08-25 21:29:01] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-25 21:29:01] [Error] connect to update server error

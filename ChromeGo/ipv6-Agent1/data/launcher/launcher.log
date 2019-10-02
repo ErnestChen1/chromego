@@ -1,0 +1,33 @@
+2019-08-25 20:46:40.158 - [INFO] use build-in openssl lib
+2019-08-25 20:46:40.249 - [INFO] start XX-Net 3.13.1
+2019-08-25 20:46:40.250 - [DEBUG] start confirm_xxnet_exit
+2019-08-25 20:46:41.340 - [DEBUG] good, xxnet:8085 clear!
+2019-08-25 20:46:41.342 - [DEBUG] finished confirm_xxnet_exit
+2019-08-25 20:49:15.320 - [INFO] module gae_proxy started
+2019-08-25 20:49:15.321 - [INFO] start gae_proxy time cost:153965 ms
+2019-08-25 20:49:16.206 - [INFO] module smart_router started
+2019-08-25 20:49:16.207 - [INFO] start smart_router time cost:884 ms
+2019-08-25 20:49:16.208 - [INFO] begin to start web control
+2019-08-25 20:49:16.209 - [INFO] server 127.0.0.1:8085 started.
+2019-08-25 20:49:16.210 - [INFO] launcher web control started.
+2019-08-25 20:49:16.231 - [INFO] generate desktop shortcut
+2019-08-25 20:49:17.751 - [INFO] need_new_uuid: uuid is empty
+2019-08-25 20:49:17.752 - [INFO] generate uuid:5488c25c-31ae-458d-af3e-1d372f5c0366
+2019-08-25 20:49:17.766 - [INFO] get uuid:5488c25c-31ae-458d-af3e-1d372f5c0366
+2019-08-25 20:49:17.835 - [WARNING] check_update fail:BadStatusLine("''",)
+2019-08-25 20:49:17.837 - [INFO] download https://raw.githubusercontent.com/XX-net/XX-Net/master/code/default/update_version.txt to C:\Users\zhong\Desktop\chromego\ChromeGo\ipv6-Agent1\data\downloads\version.txt, retry:0
+2019-08-25 21:16:12.232 - [INFO] use build-in openssl lib
+2019-08-25 21:16:12.254 - [INFO] start XX-Net 3.13.1
+2019-08-25 21:16:12.255 - [DEBUG] start confirm_xxnet_exit
+2019-08-25 21:16:13.259 - [DEBUG] good, xxnet:8085 clear!
+2019-08-25 21:16:13.261 - [DEBUG] finished confirm_xxnet_exit
+2019-08-25 21:16:15.821 - [INFO] module gae_proxy started
+2019-08-25 21:16:15.825 - [INFO] start gae_proxy time cost:2551 ms
+2019-08-25 21:16:16.096 - [INFO] module smart_router started
+2019-08-25 21:16:16.099 - [INFO] start smart_router time cost:269 ms
+2019-08-25 21:16:16.103 - [INFO] begin to start web control
+2019-08-25 21:16:16.107 - [INFO] server 127.0.0.1:8085 started.
+2019-08-25 21:16:16.116 - [INFO] launcher web control started.
+2019-08-25 21:16:17.130 - [INFO] get uuid:5488c25c-31ae-458d-af3e-1d372f5c0366
+2019-08-25 21:16:17.193 - [WARNING] check_update fail:BadStatusLine("''",)
+2019-08-25 21:16:17.194 - [INFO] download https://raw.githubusercontent.com/XX-net/XX-Net/master/code/default/update_version.txt to C:\Users\zhong\Desktop\chromego\ChromeGo\ipv6-Agent1\data\downloads\version.txt, retry:0

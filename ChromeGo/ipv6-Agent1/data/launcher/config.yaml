@@ -5,3 +5,5 @@ modules:
     popup_webui: 0, proxy: disable, show_systray: 1}
   smart_router: {auto_start: 1}
   x_tunnel: {auto_start: 0}
+update: {last_path: 'C:\Users\zhong\Desktop\chromego\ChromeGo\ipv6-Agent1\code\default\launcher',
+  uuid: 5488c25c-31ae-458d-af3e-1d372f5c0366}
